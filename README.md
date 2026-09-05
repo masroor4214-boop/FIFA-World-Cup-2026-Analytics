@@ -12,8 +12,7 @@ An interactive Power BI dashboard analyzing FIFA World Cup match data.
 ## Tools Used
 - Power BI
 - DAX
-- Excel / CSV
-- SQL (if used)
+- Excel
 
 ## Dashboard Features
 - KPI cards
@@ -22,13 +21,7 @@ An interactive Power BI dashboard analyzing FIFA World Cup match data.
 - Interactive visualizations
 - Performance insights
 
-## Dashboard Preview
-![Dashboard](dashboard.png)
-
 ## Key Insights
 - France and England scored the highest number of goals.
 - Most goals were scored during the group stage.
 - Several high-scoring teams also conceded a large number of goals.
-
-## Files
-- FIFA Sample.pbix
