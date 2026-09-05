@@ -25,3 +25,4 @@ An interactive Power BI dashboard analyzing FIFA World Cup match data.
 - France and England scored the highest number of goals.
 - Most goals were scored during the group stage.
 - Several high-scoring teams also conceded a large number of goals.
+
