@@ -1,5 +1,7 @@
 # FIFA World Cup 2026 Analytics Dashboard
 
+Couldn't resist analysing World Cup data one more time⚽.
+
 ## Overview
 This project analyzes FIFA World Cup 2026 match data using Power BI and DAX to identify team performance trends, scoring patterns, defensive performance, and tournament-stage insights. The dashboard was designed to demonstrate data visualisation, KPI reporting, and analytical storytelling techniques.
 
