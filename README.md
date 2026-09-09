@@ -9,6 +9,22 @@ This project analyzes FIFA World Cup 2026 match data using Power BI and DAX to i
 - Evaluate tournament stage statistics
 - Identify key insights and trends
 
+## Skills Demonstrated
+- Data Cleaning and Transformation
+- Data Modelling
+- DAX Calculations
+- KPI Development
+- Dashboard Design
+- Data Visualization
+- Analytical Storytelling
+
+## Key Measures
+
+- Total Goals Scored
+- Total Matches
+- Total Clean Sheets
+- Goals Conceded by Team
+
 ## Tools Used
 - Power BI
 - DAX
