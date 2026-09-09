@@ -3,10 +3,10 @@
 Couldn't resist analysing World Cup data one more time⚽.
 
 ## Overview
-This project analyzes FIFA World Cup 2026 match data using Power BI and DAX to identify team performance trends, scoring patterns, defensive performance, and tournament-stage insights. The dashboard was designed to demonstrate data visualisation, KPI reporting, and analytical storytelling techniques.
+This project analyses FIFA World Cup 2026 match data using Power BI and DAX to identify team performance trends, scoring patterns, defensive performance, and tournament-stage insights. The dashboard was designed to demonstrate data visualisation, KPI reporting, and analytical storytelling techniques.
 
 ## Objectives
-- Analyze goals scored by nation
+- Analyse goals scored by nation
 - Compare team performance
 - Evaluate tournament stage statistics
 - Identify key insights and trends
@@ -17,7 +17,7 @@ This project analyzes FIFA World Cup 2026 match data using Power BI and DAX to i
 - DAX Calculations
 - KPI Development
 - Dashboard Design
-- Data Visualization
+- Data Visualisation
 - Analytical Storytelling
 
 ## Key Measures
@@ -36,11 +36,10 @@ This project analyzes FIFA World Cup 2026 match data using Power BI and DAX to i
 - KPI cards
 - Team performance analysis
 - Goals by tournament stage
-- Interactive visualizations
+- Interactive visualisations
 - Performance insights
 
 ## Key Insights
 - France and England scored the highest number of goals.
-- Most goals were scored during the group stage.
 - Several high-scoring teams also conceded a large number of goals.
 
